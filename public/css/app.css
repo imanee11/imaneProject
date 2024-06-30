@@ -60,11 +60,11 @@ nav{
     background-position: center;
     height: 100vh;
     background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
 }
 .s1-left-part{
-    padding-top: 180px;
     padding-left: 150px;
-    
 }
 .s1-p1{
     color:#8b8589 ;
